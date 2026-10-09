@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online Education Analytics
 
 A full-stack, locally-hosted web application for online education analytics with role-based dashboards for Admin, Instructor, and Student roles.
@@ -176,3 +177,6 @@ npm run dev
 ```
 
 Then open **http://localhost:5173** and log in with any test account above.
+=======
+# Online-Education-Analytics
+>>>>>>> 0213fce3e3f2e4662af834bf139a3794ca8f46a0
